@@ -18,7 +18,7 @@ You can find the blog series [here](https://kevinavignon.com/category/text-adven
 - [.NET 5](https://devblogs.microsoft.com/dotnet/introducing-net-5/)
 - [F#](https://dotnet.microsoft.com/languages/fsharp) & [Saturn](https://saturnframework.org/) to develop the backend APIs
 - [SQLite](https://sqlite.org/index.html) for the persistence layer
-- [Reactjs](https://reactjs.org/) and [TypeScript(https://www.typescriptlang.org/)] to develop the client application
+- [Reactjs](https://reactjs.org/) and [TypeScript](https://www.typescriptlang.org/) to develop the client application
 - [Azure DevOps](https://dev.azure.com) to continuously test the application and deploy the web application (CI/CD)
 
 ## Resources used to build the game
