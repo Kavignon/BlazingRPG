@@ -1,10 +1,9 @@
 # BlazingRPG
 
 ## Main idea for the game
+For as long as I can remember, I had desired to write a book and to make my own game. I decided to bring those 2 ideas together and build something fun I'd enjoy building from the ground up. Currently, I'm gathering ideas on paper and will start the development of my game very very soon. For now, I'm thinking about building a game where the player tragically loses there family and somehow ends up in a parallel, dark dimension and is trying hard to go back to their world. During their trials, the player's abilities will grow and they might get the chance to go back their world and challenge the creature who has cursed them and their family.
 
-For as long as I can remember, I have desired to write a book and to make my own game. I decided to bring those 2 ideas together and build something fun I'd enjoy building from the ground up. Currently, I'm gathering ideas on paper and will start the development of my game very very soon. For now, I'm thinking about building a game where the player tragically loses there family and somehow ends up in a parallel, dark dimension and is trying hard to go back to their world. During their trials, the player's abilities will grow and they might get the chance to go back their world and challenge the creature who has cursed them and their family.
-
-Although this is a text-adventure, you can expect to find a minimalistic UI accompany you, the player, during your adventure :)
+Although this is a text-adventure, you can expect to find a minimalistic UI to accompany you, the player, during your adventure :)
 
 ## Blog series
 
